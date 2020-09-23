@@ -1,0 +1,11 @@
+source 'http://rubygems.org'
+
+
+gem 'cucumber'
+gem 'rspec'
+gem 'pry'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'httparty'
+gem 'report_builder'
+
